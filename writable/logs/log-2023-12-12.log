@@ -1,0 +1,60 @@
+CRITICAL - 2023-12-12 07:03:31 --> Invalid file: "admin/siswa/pegawai.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/siswa/pegawai.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/siswa/pegawai', [], true)
+ 3 APPPATH\Controllers\Pegawai.php(12): view('admin/siswa/pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2023-12-12 07:04:41 --> Invalid file: "admin/siswa/pegawai.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/siswa/pegawai.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/siswa/pegawai', [], true)
+ 3 APPPATH\Controllers\Pegawai.php(12): view('admin/siswa/pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2023-12-12 07:04:44 --> Invalid file: "admin/siswa/pegawai.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/siswa/pegawai.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/siswa/pegawai', [], true)
+ 3 APPPATH\Controllers\Pegawai.php(12): view('admin/siswa/pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2023-12-12 07:04:57 --> Invalid file: "admin/siswa/pegawai.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/siswa/pegawai.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/siswa/pegawai', [], true)
+ 3 APPPATH\Controllers\Pegawai.php(12): view('admin/siswa/pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2023-12-12 07:06:53 --> Invalid file: "admin/pegawai/pegawai.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pegawai/pegawai.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/pegawai/pegawai', [], true)
+ 3 APPPATH\Controllers\Pegawai.php(12): view('admin/pegawai/pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2023-12-12 07:07:01 --> Invalid file: "admin/pegawai/pegawai.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/pegawai/pegawai.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/pegawai/pegawai', [], true)
+ 3 APPPATH\Controllers\Pegawai.php(12): view('admin/pegawai/pegawai')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')

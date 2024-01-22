@@ -1,0 +1,334 @@
+CRITICAL - 2023-10-24 07:50:58 --> Invalid file: "home/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('home/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:52:01 --> Invalid file: "home/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('home/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:52:53 --> Invalid file: "home/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('home/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:53:23 --> Invalid file: "home/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('home/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:53:44 --> Invalid file: "home/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('home/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:54:06 --> Invalid file: "home/Halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/Halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home/Halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('home/Halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:54:46 --> Invalid file: "home/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('home/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('home/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:56:42 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:57:47 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:57:48 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 07:58:42 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 08:01:45 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(10): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 08:02:05 --> Call to undefined function App\Controllers\Views()
+in APPPATH\Controllers\Halaman.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 08:02:19 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(11): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 08:02:29 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(11): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 08:07:49 --> Invalid file: "awal.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal', [], true)
+ 3 APPPATH\Controllers\Halaman.php(11): view('awal')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 08:07:54 --> Invalid file: "awal.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal', [], true)
+ 3 APPPATH\Controllers\Halaman.php(11): view('awal')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 08:08:44 --> Invalid file: "awal/halaman.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/halaman.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/halaman', [], true)
+ 3 APPPATH\Controllers\Halaman.php(11): view('awal/halaman')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI4\\public\\index.php')
+CRITICAL - 2023-10-24 16:27:54 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:26 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:27 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:28 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:28 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:28 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:28 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:29 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:29 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:29 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:29 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:28:30 --> Class "Controller" not found
+in APPPATH\Controllers\Halaman.php on line 2.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(306): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\CI4\\app\\Controllers\\Halaman.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Halaman')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Halaman')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Halaman', true)
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:39:15 --> Undefined constant "BASEURL"
+in APPPATH\Views\template\header.php on line 11.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Halaman.php(11): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:43:09 --> Invalid file: "awal/footer.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/footer.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/footer', [], true)
+ 3 APPPATH\Controllers\Halaman.php(14): view('awal/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:43:47 --> Invalid file: "awal/footer.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/footer.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/footer', [], true)
+ 3 APPPATH\Controllers\Halaman.php(14): view('awal/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-24 16:43:49 --> Invalid file: "awal/footer.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('awal/footer.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('awal/footer', [], true)
+ 3 APPPATH\Controllers\Halaman.php(14): view('awal/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Halaman->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halaman))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

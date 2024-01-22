@@ -1,0 +1,18 @@
+CRITICAL - 2023-10-03 08:17:45 --> Invalid file: "welcome_profil.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_profil.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('welcome_profil', [], true)
+ 3 APPPATH\Controllers\Profil.php(9): view('welcome_profil')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Profil->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-03 08:19:16 --> Invalid file: "welcome_profil.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_profil.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('welcome_profil', [], true)
+ 3 APPPATH\Controllers\Profil.php(9): view('welcome_profil')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Profil->profil()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profil))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

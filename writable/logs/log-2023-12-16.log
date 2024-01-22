@@ -1,0 +1,22 @@
+CRITICAL - 2023-12-16 08:44:44 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-12-16 08:44:46 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\Helpers\number_helper.php:136
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\Helpers\number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 D:\xampp1\htdocs\latihan_ci4\app\Views\errors\html\error_exception.php(360): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(241): include('D:\\xampp1\\htdoc...')
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(109): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'D:\\xampp1\\htdoc...')
+#6 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

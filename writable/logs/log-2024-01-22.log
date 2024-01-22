@@ -1,0 +1,216 @@
+CRITICAL - 2024-01-22 16:34:29 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-22 16:34:29 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-22 16:34:57 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-22 16:34:57 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-22 16:35:28 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-22 16:35:28 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-22 16:37:19 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-22 16:37:19 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-22 16:38:54 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 ROOTPATH\spark(88): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-22 16:38:54 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 D:\xampp1\htdocs\latihan_ci4\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(78): CodeIgniter\HTTP\Response->send()
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#6 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\spark(88): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-22 16:39:43 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-22 16:39:43 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\Helpers\number_helper.php:136
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\Helpers\number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 D:\xampp1\htdocs\latihan_ci4\app\Views\errors\html\error_exception.php(360): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(241): include('D:\\xampp1\\htdoc...')
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(109): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'D:\\xampp1\\htdoc...')
+#6 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-22 16:39:55 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 214.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-22 16:39:55 --> Uncaught Error: Class "Locale" not found in D:\xampp1\htdocs\latihan_ci4\system\Helpers\number_helper.php:136
+Stack trace:
+#0 D:\xampp1\htdocs\latihan_ci4\system\Helpers\number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 D:\xampp1\htdocs\latihan_ci4\app\Views\errors\html\error_exception.php(360): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(241): include('D:\\xampp1\\htdoc...')
+#4 D:\xampp1\htdocs\latihan_ci4\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 D:\xampp1\htdocs\latihan_ci4\system\Debug\ExceptionHandler.php(109): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'D:\\xampp1\\htdoc...')
+#6 D:\xampp1\htdocs\latihan_ci4\system\Debug\Exceptions.php(147): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 D:\xampp1\htdocs\latihan_ci4\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-01-22 15:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-22 15:41:07 --> Undefined array key "namapegawai"
+in APPPATH\Views\datapegawai.php on line 4.
+ 1 APPPATH\Views\datapegawai.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "namapegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php', 4)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/datapegawai', [], true)
+ 5 APPPATH\Controllers\Datapegawai.php(12): view('/datapegawai')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Datapegawai->datapegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Datapegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-22 15:45:07 --> Undefined array key "namapegawai"
+in APPPATH\Views\datapegawai.php on line 4.
+ 1 APPPATH\Views\datapegawai.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "namapegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php', 4)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/datapegawai', [], true)
+ 5 APPPATH\Controllers\Datapegawai.php(18): view('/datapegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Datapegawai->datapegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Datapegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-22 15:45:08 --> Undefined array key "namapegawai"
+in APPPATH\Views\datapegawai.php on line 4.
+ 1 APPPATH\Views\datapegawai.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "namapegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php', 4)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/datapegawai', [], true)
+ 5 APPPATH\Controllers\Datapegawai.php(18): view('/datapegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Datapegawai->datapegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Datapegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-22 15:45:13 --> Undefined array key "namapegawai"
+in APPPATH\Views\datapegawai.php on line 4.
+ 1 APPPATH\Views\datapegawai.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "namapegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php', 4)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/datapegawai', [], true)
+ 5 APPPATH\Controllers\Datapegawai.php(18): view('/datapegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Datapegawai->datapegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Datapegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-22 15:45:17 --> Undefined array key "namapegawai"
+in APPPATH\Views\datapegawai.php on line 4.
+ 1 APPPATH\Views\datapegawai.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "namapegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php', 4)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\datapegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/datapegawai', [], true)
+ 5 APPPATH\Controllers\Datapegawai.php(18): view('/datapegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Datapegawai->datapegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Datapegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-22 15:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:49:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-22 15:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,339 @@
+INFO - 2024-01-18 08:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 08:43:07 --> Undefined array key "pegawai"
+in APPPATH\Views\admin\pegawai\edit.php on line 7.
+ 1 APPPATH\Views\admin\pegawai\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(69): view('/admin/pegawai/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 08:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 08:43:33 --> Undefined array key "pegawai"
+in APPPATH\Views\admin\pegawai\edit.php on line 7.
+ 1 APPPATH\Views\admin\pegawai\edit.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php', 7)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(69): view('/admin/pegawai/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 08:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 08:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 08:49:14 --> Undefined variable $no
+in APPPATH\Views\admin\pegawai\edit.php on line 16.
+ 1 APPPATH\Views\admin\pegawai\edit.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $no', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php', 16)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(69): view('/admin/pegawai/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-18 08:49:30 --> Undefined variable $data
+in APPPATH\Views\admin\pegawai\edit.php on line 16.
+ 1 APPPATH\Views\admin\pegawai\edit.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php', 16)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(69): view('/admin/pegawai/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('3')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 09:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 09:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 09:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 09:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 09:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:03:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 10:09:07 --> Call to undefined function form_open()
+in APPPATH\Views\admin\pegawai\edit.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 4 APPPATH\Controllers\Pegawai.php(57): view('/admin/pegawai/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 10:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 10:36:53 --> Class "App\Controllers\Pegawai_modell" not found
+in APPPATH\Controllers\Pegawai.php on line 54.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('4')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-18 10:37:32 --> Call to undefined function form_open()
+in APPPATH\Views\admin\pegawai\edit.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 4 APPPATH\Controllers\Pegawai.php(57): view('/admin/pegawai/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 10:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 10:37:37 --> Call to undefined function form_open()
+in APPPATH\Views\admin\pegawai\edit.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 4 APPPATH\Controllers\Pegawai.php(57): view('/admin/pegawai/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-18 10:38:04 --> Call to undefined function form_open()
+in APPPATH\Views\admin\pegawai\edit.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 4 APPPATH\Controllers\Pegawai.php(57): view('/admin/pegawai/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 10:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 10:38:11 --> Call to undefined function form_open()
+in APPPATH\Views\admin\pegawai\edit.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 4 APPPATH\Controllers\Pegawai.php(57): view('/admin/pegawai/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 10:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 10:38:35 --> Call to undefined function form_open()
+in APPPATH\Views\admin\pegawai\edit.php on line 4.
+ 1 SYSTEMPATH\View\View.php(226): include()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 4 APPPATH\Controllers\Pegawai.php(69): view('/admin/pegawai/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('4')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 10:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 10:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 16:41:41 --> Undefined variable $id
+in APPPATH\Views\admin\pegawai\pegawai.php on line 44.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 44)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 16:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 16:54:09 --> Attempt to read property "id" on array
+in APPPATH\Views\admin\pegawai\pegawai.php on line 51.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 51)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 16:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 16:54:43 --> Undefined variable $id
+in APPPATH\Views\admin\pegawai\pegawai.php on line 51.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 51)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 16:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 16:54:47 --> Undefined variable $id
+in APPPATH\Views\admin\pegawai\pegawai.php on line 51.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 51)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 16:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 16:54:49 --> Undefined variable $id
+in APPPATH\Views\admin\pegawai\pegawai.php on line 51.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 51)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 16:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 16:54:54 --> Undefined variable $id
+in APPPATH\Views\admin\pegawai\pegawai.php on line 51.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 51)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 16:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 16:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 17:25:34 --> Call to undefined method App\Models\Pegawai_model::getCustomer
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Pegawai.php(50): CodeIgniter\Model->__call('getCustomer', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('5')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-18 17:26:46 --> Undefined array key "id"
+in APPPATH\Views\admin\pegawai\edit.php on line 10.
+ 1 APPPATH\Views\admin\pegawai\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(52): view('/admin/pegawai/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-18 17:27:18 --> Undefined array key "pegawai"
+in APPPATH\Views\admin\pegawai\edit.php on line 10.
+ 1 APPPATH\Views\admin\pegawai\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pegawai"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\edit.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/edit', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(52): view('/admin/pegawai/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 17:29:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:33:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 17:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 18:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 18:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 20:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-18 21:22:09 --> Undefined variable $students_detail
+in APPPATH\Views\admin\pegawai\pegawai.php on line 39.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students_detail', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 39)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-18 21:23:03 --> Undefined array key "first_name"
+in APPPATH\Views\admin\pegawai\pegawai.php on line 43.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "first_name"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 43)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(18): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-18 21:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:38:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-18 21:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

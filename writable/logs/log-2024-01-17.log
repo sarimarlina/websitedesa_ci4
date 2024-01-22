@@ -1,0 +1,196 @@
+CRITICAL - 2024-01-17 08:34:29 --> Invalid file: "admin/home_admin.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/home_admin.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/home_admin', [], true)
+ 3 APPPATH\Controllers\Home_admin.php(12): view('admin/home_admin')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Home_admin->homeadmin()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home_admin))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 10:41:14 --> Undefined array key "ni"
+in APPPATH\Views\admin\penduduk\penduduk.php on line 35.
+ 1 APPPATH\Views\admin\penduduk\penduduk.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ni"', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\penduduk\\penduduk.php', 35)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\penduduk\\penduduk.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/penduduk/penduduk', [], true)
+ 5 APPPATH\Controllers\Penduduk.php(18): view('/admin/penduduk/penduduk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\penduduk->penduduk()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\penduduk))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-17 11:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 11:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 11:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 11:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-17 13:58:24 --> Class "App\Models\Penduduk_model" not found
+in APPPATH\Controllers\Penduduk.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\penduduk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 13:58:31 --> Class "App\Models\Penduduk_model" not found
+in APPPATH\Controllers\Penduduk.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\penduduk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 13:59:00 --> Class "App\Models\Penduduk_model" not found
+in APPPATH\Controllers\Penduduk.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\penduduk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 13:59:33 --> Class "App\Models\Penduduk_model" not found
+in APPPATH\Controllers\Penduduk.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\penduduk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 13:59:40 --> Class "App\Models\Penduduk_model" not found
+in APPPATH\Controllers\Penduduk.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\penduduk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 14:00:09 --> Class "App\Models\Penduduk_model" not found
+in APPPATH\Controllers\Penduduk.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\penduduk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 14:00:10 --> Class "App\Models\Penduduk_model" not found
+in APPPATH\Controllers\Penduduk.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\penduduk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 15:44:54 --> Undefined variable $ppegawai
+in APPPATH\Views\admin\pegawai\pegawai.php on line 26.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ppegawai', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 26)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(14): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 15:46:18 --> Undefined variable $id
+in APPPATH\Views\admin\pegawai\pegawai.php on line 35.
+ 1 APPPATH\Views\admin\pegawai\pegawai.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php', 35)
+ 2 SYSTEMPATH\View\View.php(226): include('D:\\xampp1\\htdocs\\latihan_ci4\\app\\Views\\admin\\pegawai\\pegawai.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/admin/pegawai/pegawai', [], true)
+ 5 APPPATH\Controllers\Pegawai.php(14): view('/admin/pegawai/pegawai', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Pegawai->pegawai()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pegawai))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-17 17:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 17:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 17:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 17:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 17:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 17:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 17:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:01:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-17 18:12:18 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\M_user.php(12): CodeIgniter\Model->__call('getWhere', [...])
+ 4 APPPATH\Controllers\User.php(46): App\Models\M_user->get_user('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\User->edit('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 18:14:06 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Models\M_user.php(12): CodeIgniter\Model->__call('getWhere', [...])
+ 4 APPPATH\Controllers\User.php(46): App\Models\M_user->get_user('1')
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\User->edit('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 18:18:23 --> Call to a member function where() on string
+in APPPATH\Controllers\User.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\User->edit('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 18:18:24 --> Call to a member function where() on string
+in APPPATH\Controllers\User.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\User->edit('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 18:19:05 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\User.php(46): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\User->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 18:19:44 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\User.php(46): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\User->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+CRITICAL - 2024-01-17 18:19:55 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(635): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\User.php(46): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\User->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp1\\htdocs\\latihan_ci4\\public\\index.php')
+INFO - 2024-01-17 18:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:30:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 18:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 19:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-17 19:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

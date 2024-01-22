@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../datakampus"
+		},
+		{
+			"path": "../uas"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
